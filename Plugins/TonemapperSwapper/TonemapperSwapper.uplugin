@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Tonemapper Swapper",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Ares9323",
+	"CreatedByURL": "https://www.fab.com/sellers/Ares9323",
+	"DocsURL": "https://github.com/Ares9323/UEPluginsDocumentation/blob/master/AgX_Tonemapper/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/8ac93617-31b7-42f7-ad80-b917b828083c",
+	"SupportURL": "https://github.com/Ares9323/UEPluginsDocumentation",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TonemapperSwapper",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
